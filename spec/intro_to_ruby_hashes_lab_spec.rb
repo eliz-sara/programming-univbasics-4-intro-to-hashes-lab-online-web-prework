@@ -4,11 +4,8 @@ my_hash = Kiddos = {"daughter" => "lyrik"}
 
 pioneer = {name: "Grace Hopper"}
 
-id_generator = {
-  :3 => 2
-} 
-
-id_generator
+id_generator =
+{:id 2}
   
 def my_hash_creator(key,value)
   {key = 
