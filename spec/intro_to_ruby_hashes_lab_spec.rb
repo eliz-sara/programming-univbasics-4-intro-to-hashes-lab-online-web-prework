@@ -8,7 +8,9 @@ id_generator =
 {:id 2}
   
 def my_hash_creator(key,value)
-  {key = 
+  {key => value}
+  
+  
   
   
 
